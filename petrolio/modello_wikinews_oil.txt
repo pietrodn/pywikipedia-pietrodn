@@ -1,0 +1,7 @@
+{{Petrolio
+|aggiornamento  = {{subst:CURRENTDAY}}/{{subst:CURRENTMONTH}}/{{subst:#time:y|{{subst:LOCALYEAR}}-{{subst:LOCALMONTH}}-{{subst:LOCALDAY}}}} - {{subst:#time:G:i|{{subst:LOCALTIME}} -15 minutes}}
+|NYMEX    = #CL_curr
+|NYMEX-c  = #CL_diff
+|Brent    = #BZ_curr
+|Brent-c  = #BZ_diff
+}}

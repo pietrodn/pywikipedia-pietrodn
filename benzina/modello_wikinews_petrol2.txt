@@ -1,0 +1,15 @@
+{{Benzina/Inizio}}
+{{Benzina/Riga|[[w:Agip|Agip]]|#benzina_Agip|#diesel_Agip}}
+{{Benzina/Riga|[[w:Anonima Petroli Italiana|Api]]|#benzina_API|#diesel_API}}
+{{Benzina/Riga|[[w:ERG|Erg]]|#benzina_Erg|#diesel_Erg}}
+{{Benzina/Riga|[[w:Esso|Esso]]|#benzina_Esso|#diesel_Esso}}
+{{Benzina/Riga|[[w:Italiana Petroli|Ip]]|#benzina_Ip|#diesel_Ip}}
+{{Benzina/Riga|[[w:Kuwait Petroleum Corporation|Q8]]|#benzina_Q8|#diesel_Q8}}
+{{Benzina/Riga|[[w:Royal Dutch Shell|Shell]]|#benzina_Shell|#diesel_Shell}}
+{{Benzina/Riga|[[w:Tamoil|Tamoil]]|#benzina_Tamoil|#diesel_Tamoil}}
+{{Benzina/Riga|[[w:Total S.A.|Total]]|#benzina_Total|#diesel_Total}}
+{{Benzina/Fine}}
+
+Fonte: [http://www.newstreet.it/prezzi_benzina_gasolio.html newstreet.it]
+
+<small>Prezzi [[w:euro|€]]/[[w:litro|L]] nazionali consigliati del #data.</small>

@@ -1,0 +1,131 @@
+== Programmi TV ==
+
+=== [[Immagine:RAI logo.png|75px]] '''RAI''' ===
+
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1; color:blue;" | Rai 1
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#rai1-mattina
+|-
+! colspan="2" | Pomeriggio
+#rai1-pomeriggio
+|-
+! colspan="2" | Sera
+#rai1-sera
+|}
+</div>
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1; color:red;" | Rai 2
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#rai2-mattina
+|-
+! colspan="2" | Pomeriggio
+#rai2-pomeriggio
+|-
+! colspan="2" | Sera
+#rai2-sera
+|}
+</div>
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1; color:green;" | Rai 3
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#rai3-mattina
+|-
+! colspan="2" | Pomeriggio
+#rai3-pomeriggio
+|-
+! colspan="2" | Sera
+#rai3-sera
+|}
+</div>
+<br style="clear:both;" />
+
+=== [[Immagine:Logo-Mediaset.PNG|85px]] '''Mediaset''' ===
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1;" | Rete 4
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#rete4-mattina
+|-
+! colspan="2" | Pomeriggio
+#rete4-pomeriggio
+|-
+! colspan="2" | Sera
+#rete4-sera
+|}
+</div>
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1;" | Canale 5
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#canale5-mattina
+|-
+! colspan="2" | Pomeriggio
+#canale5-pomeriggio
+|-
+! colspan="2" | Sera
+#canale5-sera
+|}
+</div>
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1;" | Italia 1
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#italia1-mattina
+|-
+! colspan="2" | Pomeriggio
+#italia1-pomeriggio
+|-
+! colspan="2" | Sera
+#italia1-sera
+|}
+</div>
+<br style="clear:both;" />
+
+=== [[Immagine:La7.gif|75px]] '''La7''' ===
+<div style="float:left; width:33%;">
+{| {{prettytable}}
+! colspan="2" style="font-size:200%; line-height:1;" | La 7
+|-
+!Orario
+!Programma
+|-
+! colspan="2" | Mattina
+#la7-mattina
+|-
+! colspan="2" | Pomeriggio
+#la7-pomeriggio
+|-
+! colspan="2" | Sera
+#la7-sera
+|}
+</div>
+
+Il palinsesto è preso da [http://city.corriere.it/tv/tv.php City]. Ultimo aggiornamento: {{subst:#time:H:i, l j F Y}}

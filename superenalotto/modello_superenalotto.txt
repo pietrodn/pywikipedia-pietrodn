@@ -1,0 +1,48 @@
+{{data|{{subst:#expr:#giorno}} {{subst:#time:F|#anno-#mese-#giorno}} #anno|#dow}}
+{| {{prettytable|width=400px|align=center|text-align=center}}
+|-
+|colspan="8" bgcolor="#98A1B2" align=center|<span style="color:white">'''Concorso Superenalotto n. #super-id di #dow {{subst:#expr:#giorno}} {{subst:#time:F|#anno-#mese-#giorno}} #anno'''</span>
+|- style="background:#F5F5F5;"
+!colspan="6"|Colonna vincente || Numero Jolly || SuperStar
+|-
+! #num-1 || #num-2 || #num-3 || #num-4 || #num-5 || #num-6 || #num-jolly || #num-superstar
+|-
+|}
+
+==Montepremi e quote==
+;Montepremi
+* Concorso n. #super-id: #montepremi-parz euro
+* Jackpot (riporto concorso precedente): #jackpot euro
+* Montepremi totale: '''#montepremi-tot''' euro
+
+;Quote Superenalotto
+
+* ai "6": #punti-6# (#vincitori-punti-6# vincitori)
+* ai "5+1": #punti-5+# (#vincitori-punti-5+# vincitori)
+* ai "5": #punti-5# (#vincitori-punti-5# vincitori)
+* ai "4": #punti-4# (#vincitori-punti-4# vincitori)
+* ai "3": #punti-3# (#vincitori-punti-3# vincitori)
+
+;Quote Superstar
+
+* "5 stella": #5-stella# (#vincitori-5-stella# vincitori)
+* "4 stella": #4-stella# (#vincitori-4-stella# vincitori)
+* "3 stella": #3-stella# (#vincitori-3-stella# vincitori)
+* "2 stella": #2-stella# (#vincitori-2-stella# vincitori) 
+* "1 stella": #1-stella# (#vincitori-1-stella# vincitori)
+* "0 stella": #0-stella# (#vincitori-0-stella# vincitori)
+
+==Fonti==
+{{fonte
+|autore=
+|url=http://www.sisal.it/se/se_main/1,4136,se_RisultatiArch_#anno_#super-id_#super-id,00.html
+|titolo=Concorso n. #super-id di #dow #giorno/#mese/#anno
+|agenzia=Sisal
+|data={{subst:#expr:#giorno}} {{subst:#time:F|#anno-#mese-#giorno}} #anno}}
+
+{{pubblicato}}
+
+[[Categoria:Europa]]
+[[Categoria:Italia]]
+[[Categoria:Giochi a premi]]
+[[Categoria:Superenalotto]]

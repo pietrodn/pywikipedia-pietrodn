@@ -1,0 +1,55 @@
+{{data|{{subst:#expr:#giorno}} #nomemese #anno|#dow}}
+{| {{prettytable|width=400px|align=center}}
+|-
+|colspan="6" bgcolor="#98A1B2" align=center|<span style="color:white">'''Estrazioni del lotto del {{subst:#expr:#giorno}} #nomemese #anno'''</span>
+|- style="background:#F5F5F5;"
+| Bari
+! #bari-1 || #bari-2 || #bari-3 || #bari-4 || #bari-5
+|- style="background:#FFFFFF;"
+| Cagliari
+! #cagliari-1 || #cagliari-2 || #cagliari-3 || #cagliari-4 || #cagliari-5
+|- style="background:#F5F5F5;"
+| Firenze
+! #firenze-1 || #firenze-2 || #firenze-3 || #firenze-4 || #firenze-5
+|- style="background:#FFFFFF;"
+| Genova
+! #genova-1 || #genova-2 || #genova-3 || #genova-4 || #genova-5
+|- style="background:#F5F5F5;"
+| Milano
+! #milano-1 || #milano-2 || #milano-3 || #milano-4 || #milano-5
+|- style="background:#FFFFFF;"
+| Napoli
+! #napoli-1 || #napoli-2 || #napoli-3 || #napoli-4 || #napoli-5
+|- style="background:#F5F5F5;"
+| Palermo
+! #palermo-1 || #palermo-2 || #palermo-3 || #palermo-4 || #palermo-5
+|- style="background:#FFFFFF;"
+| Roma
+! #roma-1 || #roma-2 || #roma-3 || #roma-4 || #roma-5
+|- style="background:#F5F5F5;"
+| Torino
+! #torino-1 || #torino-2 || #torino-3 || #torino-4 || #torino-5
+|- style="background:#FFFFFF;"
+| Venezia
+! #venezia-1 || #venezia-2 || #venezia-3 || #venezia-4 || #venezia-5
+|- style="background:#F5F5F5;"
+| Ruota nazionale
+! #nazionale-1 || #nazionale-2 || #nazionale-3 || #nazionale-4 || #nazionale-5
+|-
+|}
+
+==Fonti==
+{{fonte
+|autore=
+|url=http://www.lottomatica.it/lotto/estrazioni/estrazioni_dettaglio.do?dataConcorso=#anno-#mese-#giorno
+|titolo=Lotto: Estrazioni del #giorno-#mese-#anno
+|agenzia=Lottomatica
+|data={{subst:#expr:#giorno}} #nomemese #anno
+}}
+
+{{pubblicato}}
+
+[[Categoria:Europa]]
+[[Categoria:Italia]]
+[[Categoria:Giochi a premi]]
+[[Categoria:Lotto|#anno-#mese-#giorno]]

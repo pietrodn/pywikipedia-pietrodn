@@ -1,0 +1,842 @@
+* [[Template:Pagina principale/Secondo piano/Meteo|Guarda le previsioni del tempo a questa pagina]]
+* [[Portale:Meteo|Portale Meteo]]
+* [[:Categoria:Meteo|Notizie sul meteo]]
+<noinclude>
+=== [[Previsioni del tempo per {{subst:#time:l j F Y|+1 day}}]] ===
+=== Previsioni maggiori città italiane ===
+<div style=float:left;>
+#tempo-Ancona# [[w:Ancona|Ancona]] 
+
+#tempo-Pian Rosa# [[w:Aosta|Aosta]]
+
+#tempo-Bari# [[w:Bari|Bari]] 
+
+#tempo-Bologna# [[w:Bologna|Bologna]]
+
+#tempo-Bolzano# [[w:Bolzano|Bolzano]]
+
+#tempo-Cagliari# [[w:Cagliari|Cagliari]]
+
+#tempo-Campobasso# [[w:Campobasso|Campobasso]]
+
+#tempo-Firenze# [[w:Firenze|Firenze]]
+
+#tempo-Genova# [[w:Genova|Genova]]
+
+#tempo-Milano# [[w:Milano|Milano]]
+</div>
+<div style=float:right;>
+#tempo-Napoli# [[w:Napoli|Napoli]]
+
+#tempo-Palermo# [[w:Palermo|Palermo]]
+
+#tempo-Perugia S. Egidio# [[w:Perugia|Perugia]]
+
+#tempo-Potenza# [[w:Potenza|Potenza]]
+
+#tempo-Reggio Calabria# [[w:Reggio Calabria|Reggio Calabria]]
+
+#tempo-Roma# [[w:Roma|Roma]]
+
+#tempo-Torino# [[w:Torino|Torino]]
+
+#tempo-Trieste# [[w:Trieste|Trieste]]
+
+#tempo-Venezia# [[w:Venezia|Venezia]]
+</div>
+{{clear}}
+
+===[[W:Italia nord-occidentale|Italia nord-occidentale]]===
+{| border="2" cellpadding="4" width:95% cellspacing="0" class="sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! bgcolor="efefef" | Località
+! bgcolor="efefef" | Cielo
+! bgcolor="efefef" | T. min (°C)
+! bgcolor="efefef" | T. max (°C)
+! bgcolor="efefef" | Vento
+! bgcolor="efefef" | Intensità
+|-
+|[[w:Stazione metereologica di San Valentino alla Muta|San Valentino alla Muta]]
+| #tempo-S. Valentino alla Muta (Passo Resia)#
+| #min-S. Valentino alla Muta (Passo Resia)#
+| #max-S. Valentino alla Muta (Passo Resia)#
+| #vento-S. Valentino alla Muta (Passo Resia)#
+| #intensita-S. Valentino alla Muta (Passo Resia)#
+|-
+|[[w:Stazione metereologica di Pian Rosa|Pian Rosa]]
+| #tempo-Pian Rosa#
+| #min-Pian Rosa#
+| #max-Pian Rosa#
+| #vento-Pian Rosa#
+| #intensita-Pian Rosa#
+|-
+|[[w:Stazione metereologica di Bergamo Orio al Serio|Bergamo Orio al Serio]]
+| #tempo-Orio al Serio (Bergamo)#
+| #min-Orio al Serio (Bergamo)#
+| #max-Orio al Serio (Bergamo)#
+| #vento-Orio al Serio (Bergamo)#
+| #intensita-Orio al Serio (Bergamo)#
+|-
+|[[w:Stazione metereologica di Novara Cameri|Novara Cameri]]
+| #tempo-Cameri (Novara)#
+| #min-Cameri (Novara)#
+| #max-Cameri (Novara)#
+| #vento-Cameri (Novara)#
+| #intensita-Cameri (Novara)#
+|-
+|[[w:Stazione metereologica di Milano Malpensa|Milano Malpensa]]
+| #tempo-Milano Malpensa#
+| #min-Milano Malpensa#
+| #max-Milano Malpensa#
+| #vento-Milano Malpensa#
+| #intensita-Milano Malpensa#
+|-
+|[[w:Stazione metereologica di Milano Linate|Milano Linate]]
+| #tempo-Milano#
+| #min-Milano#
+| #max-Milano#
+| #vento-Milano#
+| #intensita-Milano#
+|-
+|[[w:Stazione metereologica di Brescia Ghedi|Brescia Ghedi]]
+| #tempo-Brescia Ghedi#
+| #min-Brescia Ghedi#
+| #max-Brescia Ghedi#
+| #vento-Brescia Ghedi#
+| #intensita-Brescia Ghedi#
+|-
+|[[w:Stazione metereologica di Torino Caselle|Torino Caselle]]
+| #tempo-Torino#
+| #min-Torino#
+| #max-Torino#
+| #vento-Torino#
+| #intensita-Torino#
+|-
+|[[w:Stazione metereologica di Torino Bric della Croce|Torino Bric della Croce]]
+| #tempo-Bric Della Croce#
+| #min-Bric Della Croce#
+| #max-Bric Della Croce#
+| #vento-Bric Della Croce#
+| #intensita-Bric Della Croce#
+|-
+|[[w:Stazione metereologica di Cuneo Levaldigi|Cuneo Levaldigi]]
+| #tempo-Levaldigi (Cuneo)#
+| #min-Levaldigi (Cuneo)#
+| #max-Levaldigi (Cuneo)#
+| #vento-Levaldigi (Cuneo)#
+| #intensita-Levaldigi (Cuneo)#
+|-
+|[[w:Stazione metereologica di Mondovì|Mondovì]]
+| #tempo-Mondovi#
+| #min-Mondovi#
+| #max-Mondovi#
+| #vento-Mondovi#
+| #intensita-Mondovi#
+|-
+|[[w:Stazione metereologica di Govone|Govone]]
+| #tempo-Govone#
+| #min-Govone#
+| #max-Govone#
+| #vento-Govone#
+| #intensita-Govone#
+|-
+|[[w:Stazione metereologica di Passo dei Giovi|Passo dei Giovi]]
+| #tempo-Passo dei Giovi#
+| #min-Passo dei Giovi#
+| #max-Passo dei Giovi#
+| #vento-Passo dei Giovi#
+| #intensita-Passo dei Giovi#
+|-
+|[[w:Stazione metereologica di Genova-Sestri Ponente|Genova-Sestri Ponente]]
+| #tempo-Genova#
+| #min-Genova#
+| #max-Genova#
+| #vento-Genova#
+| #intensita-Genova#
+|-
+|[[w:Stazione metereologica di Albenga|Albenga]]
+| #tempo-Albenga#
+| #min-Albenga#
+| #max-Albenga#
+| #vento-Albenga#
+| #intensita-Albenga#
+|-
+|[[w:Stazione metereologica di Capo Mele|Capo Mele]]
+| #tempo-Capo Mele#
+| #min-Capo Mele#
+| #max-Capo Mele#
+| #vento-Capo Mele#
+| #intensita-Capo Mele#
+|-
+|[[w:Stazione metereologica di Sarzana Luni|Sarzana Luni]]
+| #tempo-Sarzana#
+| #min-Sarzana#
+| #max-Sarzana#
+| #vento-Sarzana#
+| #intensita-Sarzana#
+|}
+
+===[[W:Italia nord-orientale|Italia nord-orientale]]===
+{| border="2" cellpadding="4" width:95% cellspacing="0" class="sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! bgcolor="efefef" | Località
+! bgcolor="efefef" | Cielo
+! bgcolor="efefef" | T. min
+! bgcolor="efefef" | T. max
+! bgcolor="efefef" | Vento
+! bgcolor="efefef" | Intensità
+|-
+|[[w:Stazione metereologica di Dobbiaco|Dobbiaco]]
+| #tempo-Dobbiaco#
+| #min-Dobbiaco#
+| #max-Dobbiaco#
+| #vento-Dobbiaco#
+| #intensita-Dobbiaco#
+|-
+|[[w:Stazione metereologica di Bolzano|Bolzano]]
+| #tempo-Bolzano#
+| #min-Bolzano#
+| #max-Bolzano#
+| #vento-Bolzano#
+| #intensita-Bolzano#
+|-
+|[[w:Stazione metereologica di Paganella|Paganella]]
+| #tempo-Paganella#
+| #min-Paganella#
+| #max-Paganella#
+| #vento-Paganella#
+| #intensita-Paganella#
+|-
+|[[w:Stazione metereologica di Passo Rolle|Passo Rolle]]
+| #tempo-Passo Rolle#
+| #min-Passo Rolle#
+| #max-Passo Rolle#
+| #vento-Passo Rolle#
+| #intensita-Passo Rolle#
+|-
+|[[w:Stazione metereologica di Tarvisio|Tarvisio]]
+| #tempo-Tarvisio#
+| #min-Tarvisio#
+| #max-Tarvisio#
+| #vento-Tarvisio#
+| #intensita-Tarvisio#
+|-
+|[[w:Stazione metereologica di Aviano|Aviano]]
+| #tempo-Aviano#
+| #min-Aviano#
+| #max-Aviano#
+| #vento-Aviano#
+| #intensita-Aviano#
+|-
+|[[w:Stazione metereologica di Udine Rivolto|Udine Rivolto]]
+| #tempo-Udine Rivolto#
+| #min-Udine Rivolto#
+| #max-Udine Rivolto#
+| #vento-Udine Rivolto#
+| #intensita-Udine Rivolto#
+|-
+|[[w:Stazione metereologica di Trieste Ronchi dei Legionari|Trieste Ronchi dei Legionari]]
+| #tempo-Ronchi dei Legionari#
+| #min-Ronchi dei Legionari#
+| #max-Ronchi dei Legionari#
+| #vento-Ronchi dei Legionari#
+| #intensita-Ronchi dei Legionari#
+|-
+|[[w:Stazione metereologica di Trieste Barcola|Trieste Barcola]]
+| #tempo-Trieste#
+| #min-Trieste#
+| #max-Trieste#
+| #vento-Trieste#
+| #intensita-Trieste#
+|-
+|[[w:Stazione metereologica di Treviso Istrana|Treviso Istrana]]
+| #tempo-Treviso Istrana#
+| #min-Treviso Istrana#
+| #max-Treviso Istrana#
+| #vento-Treviso Istrana#
+| #intensita-Treviso Istrana#
+|-
+|[[w:Stazione metereologica di Treviso Sant'Angelo|Treviso Sant'Angelo]]
+| #tempo-Treviso S.Angelo#
+| #min-Treviso S.Angelo#
+| #max-Treviso S.Angelo#
+| #vento-Treviso S.Angelo#
+| #intensita-Treviso S.Angelo#
+|-
+|[[w:Stazione metereologica di Vicenza|Vicenza]]
+| #tempo-Vicenza#
+| #min-Vicenza#
+| #max-Vicenza#
+| #vento-Vicenza#
+| #intensita-Vicenza#
+|-
+|[[w:Stazione metereologica di Venezia Tessera|Venezia Tessera]]
+| #tempo-Venezia#
+| #min-Venezia#
+| #max-Venezia#
+| #vento-Venezia#
+| #intensita-Venezia#
+|-
+|[[w:Stazione metereologica di Verona Villafranca|Verona Villafranca]]
+| #tempo-Verona Villafranca#
+| #min-Verona Villafranca#
+| #max-Verona Villafranca#
+| #vento-Verona Villafranca#
+| #intensita-Verona Villafranca#
+|-
+|[[w:Stazione metereologica di Piacenza San Damiano|Piacenza San Damiano]]
+| #tempo-Piacenza#
+| #min-Piacenza#
+| #max-Piacenza#
+| #vento-Piacenza#
+| #intensita-Piacenza#
+|-
+|[[w:Stazione metereologica di Ferrara|Ferrara]]
+| #tempo-Ferrara#
+| #min-Ferrara#
+| #max-Ferrara#
+| #vento-Ferrara#
+| #intensita-Ferrara#
+|-
+|[[w:Stazione metereologica di Parma|Parma]]
+| #tempo-Parma#
+| #min-Parma#
+| #max-Parma#
+| #vento-Parma#
+| #intensita-Parma#
+|-
+|[[w:Stazione metereologica di Bologna Borgo Panigale|Bologna Borgo Panigale]]
+| #tempo-Bologna#
+| #min-Bologna#
+| #max-Bologna#
+| #vento-Bologna#
+| #intensita-Bologna#
+|-
+|[[w:Stazione metereologica di Forlì|Forlì]]
+| #tempo-Forli#
+| #min-Forli#
+| #max-Forli#
+| #vento-Forli#
+| #intensita-Forli#
+|-
+|[[w:Stazione metereologica di Cervia|Cervia]]
+| #tempo-Cervia#
+| #min-Cervia#
+| #max-Cervia#
+| #vento-Cervia#
+| #intensita-Cervia#
+|-
+|[[w:Stazione metereologica di Rimini Miramare|Rimini Miramare]]
+| #tempo-Rimini#
+| #min-Rimini#
+| #max-Rimini#
+| #vento-Rimini#
+| #intensita-Rimini#
+|}
+
+===[[W:Italia centrale|Italia centrale]]===
+{| border="2" cellpadding="4" width:95% cellspacing="0" class="sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! bgcolor="efefef" | Località
+! bgcolor="efefef" | Cielo
+! bgcolor="efefef" | T. min
+! bgcolor="efefef" | T. max
+! bgcolor="efefef" | Vento
+! bgcolor="efefef" | Intensità
+|-
+|[[w:Stazione metereologica di Passo della Cisa|Passo della Cisa]]
+| #tempo-Passo della Cisa#
+| #min-Passo della Cisa#
+| #max-Passo della Cisa#
+| #vento-Passo della Cisa#
+| #intensita-Passo della Cisa#
+|-
+|[[w:Stazione metereologica di Firenze Peretola|Firenze Peretola]]
+| #tempo-Firenze#
+| #min-Firenze#
+| #max-Firenze#
+| #vento-Firenze#
+| #intensita-Firenze#
+|-
+|[[w:Stazione metereologica di Pisa San Giusto|Pisa San Giusto]]
+| #tempo-Pisa S. Giusto#
+| #min-Pisa S. Giusto#
+| #max-Pisa S. Giusto#
+| #vento-Pisa S. Giusto#
+| #intensita-Pisa S. Giusto#
+|-
+|[[w:Stazione metereologica di Ancona Falconara|Ancona Falconara]]
+| #tempo-Ancona#
+| #min-Ancona#
+| #max-Ancona#
+| #vento-Ancona#
+| #intensita-Ancona#
+|-
+|[[w:Stazione metereologica di Frontone|Frontone]]
+| #tempo-Frontone#
+| #min-Frontone#
+| #max-Frontone#
+| #vento-Frontone#
+| #intensita-Frontone#
+|-
+|[[w:Stazione metereologica di Arezzo Molin Bianco|Arezzo Molin Bianco]]
+| #tempo-Arezzo#
+| #min-Arezzo#
+| #max-Arezzo#
+| #vento-Arezzo#
+| #intensita-Arezzo#
+|-
+|[[w:Stazione metereologica di Perugia Sant'Egidio|Perugia Sant'Egidio]]
+| #tempo-Perugia S. Egidio#
+| #min-Perugia S. Egidio#
+| #max-Perugia S. Egidio#
+| #vento-Perugia S. Egidio#
+| #intensita-Perugia S. Egidio#
+|-
+|[[w:Stazione metereologica di Radicofani|Radicofani]]
+| #tempo-Radicofani#
+| #min-Radicofani#
+| #max-Radicofani#
+| #vento-Radicofani#
+| #intensita-Radicofani#
+|-
+|[[w:Stazione metereologica di Elba-Monte Calamita|Elba-Monte Calamita]]
+| #tempo-Elba M. Calamita#
+| #min-Elba M. Calamita#
+| #max-Elba M. Calamita#
+| #vento-Elba M. Calamita#
+| #intensita-Elba M. Calamita#
+|-
+|[[w:Stazione metereologica di Grosseto Aeroporto|Grosseto Aeroporto]]
+| #tempo-Grosseto#
+| #min-Grosseto#
+| #max-Grosseto#
+| #vento-Grosseto#
+| #intensita-Grosseto#
+|-
+|[[w:Stazione metereologica di Monte Argentario|Monte Argentario]]
+| #tempo-Monte Argentario#
+| #min-Monte Argentario#
+| #max-Monte Argentario#
+| #vento-Monte Argentario#
+| #intensita-Monte Argentario#
+|-
+|[[w:Stazione metereologica di Viterbo|Viterbo]]
+| #tempo-Viterbo#
+| #min-Viterbo#
+| #max-Viterbo#
+| #vento-Viterbo#
+| #intensita-Viterbo#
+|-
+|[[w:Stazione metereologica di Monte Terminillo|Monte Terminillo]]
+| #tempo-Monte Terminillo#
+| #min-Monte Terminillo#
+| #max-Monte Terminillo#
+| #vento-Monte Terminillo#
+| #intensita-Monte Terminillo#
+|-
+|[[w:Stazione metereologica di Pescara Aeroporto|Pescara Aeroporto]]
+| #tempo-Pescara#
+| #min-Pescara#
+| #max-Pescara#
+| #vento-Pescara#
+| #intensita-Pescara#
+|-
+|[[w:Stazione metereologica di Civitavecchia|Civitavecchia]]
+| #tempo-Civitavecchia#
+| #min-Civitavecchia#
+| #max-Civitavecchia#
+| #vento-Civitavecchia#
+| #intensita-Civitavecchia#
+|-
+|[[w:Stazione metereologica di Bracciano Vigna di Valle|Bracciano Vigna di Valle]]
+| #tempo-Vigna di Valle#
+| #min-Vigna di Valle#
+| #max-Vigna di Valle#
+| #vento-Vigna di Valle#
+| #intensita-Vigna di Valle#
+|-
+|[[w:Stazione metereologica di Guidonia Montecelio|Guidonia Montecelio]]
+| #tempo-Guidonia#
+| #min-Guidonia#
+| #max-Guidonia#
+| #vento-Guidonia#
+| #intensita-Guidonia#
+|-
+|[[w:Stazione metereologica di Roma Urbe|Roma Urbe]]
+| #tempo-Roma Urbe#
+| #min-Roma Urbe#
+| #max-Roma Urbe#
+| #vento-Roma Urbe#
+| #intensita-Roma Urbe#
+|-
+|[[w:Stazione metereologica di Roma Fiumicino|Roma Fiumicino]]
+| #tempo-Roma Fiumicino#
+| #min-Roma Fiumicino#
+| #max-Roma Fiumicino#
+| #vento-Roma Fiumicino#
+| #intensita-Roma Fiumicino#
+|-
+|[[w:Stazione metereologica di Roma Ciampino|Roma Ciampino]]
+| #tempo-Roma#
+| #min-Roma#
+| #max-Roma#
+| #vento-Roma#
+| #intensita-Roma#
+|-
+|[[w:Stazione metereologica di Pratica di Mare|Pratica di Mare]]
+| #tempo-Pratica di Mare#
+| #min-Pratica di Mare#
+| #max-Pratica di Mare#
+| #vento-Pratica di Mare#
+| #intensita-Pratica di Mare#
+|-
+|[[w:Stazione metereologica di Frosinone|Frosinone]]
+| #tempo-Frosinone#
+| #min-Frosinone#
+| #max-Frosinone#
+| #vento-Frosinone#
+| #intensita-Frosinone#
+|-
+|[[w:Stazione metereologica di Latina Aeroporto|Latina Aeroporto]]
+| #tempo-Latina#
+| #min-Latina#
+| #max-Latina#
+| #vento-Latina#
+| #intensita-Latina#
+|-
+|[[w:Stazione metereologica di Ponza|Ponza]]
+| #tempo-Ponza#
+| #min-Ponza#
+| #max-Ponza#
+| #vento-Ponza#
+| #intensita-Ponza#
+|}
+
+===[[W:Italia meridionale|Italia meridionale]]===
+{| border="2" cellpadding="4" width:95% cellspacing="0" class="sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! bgcolor="efefef" | Località
+! bgcolor="efefef" | Cielo
+! bgcolor="efefef" | T. min
+! bgcolor="efefef" | T. max
+! bgcolor="efefef" | Vento
+! bgcolor="efefef" | Intensità
+|-
+|[[w:Stazione metereologica di Termoli|Termoli]]
+| #tempo-Termoli#
+| #min-Termoli#
+| #max-Termoli#
+| #vento-Termoli#
+| #intensita-Termoli#
+|-
+|[[w:Stazione metereologica di Campobasso|Campobasso]]
+| #tempo-Campobasso#
+| #min-Campobasso#
+| #max-Campobasso#
+| #vento-Campobasso#
+| #intensita-Campobasso#
+|-
+|[[w:Stazione metereologica di Monte Sant'Angelo|Monte Sant'Angelo]]
+| #tempo-Monte S. Angelo#
+| #min-Monte S. Angelo#
+| #max-Monte S. Angelo#
+| #vento-Monte S. Angelo#
+| #intensita-Monte S. Angelo#
+|-
+|[[w:Stazione metereologica di Foggia Amendola|Foggia Amendola]]
+| #tempo-Amendola#
+| #min-Amendola#
+| #max-Amendola#
+| #vento-Amendola#
+| #intensita-Amendola#
+|-
+|[[w:Stazione metereologica di Grazzanise|Grazzanise]]
+| #tempo-Grazzanise#
+| #min-Grazzanise#
+| #max-Grazzanise#
+| #vento-Grazzanise#
+| #intensita-Grazzanise#
+|-
+|[[w:Stazione metereologica di Napoli Capodichino|Napoli Capodichino]]
+| #tempo-Napoli#
+| #min-Napoli#
+| #max-Napoli#
+| #vento-Napoli#
+| #intensita-Napoli#
+|-
+|[[w:Stazione metereologica di Trevico|Trevico]]
+| #tempo-Trevico#
+| #min-Trevico#
+| #max-Trevico#
+| #vento-Trevico#
+| #intensita-Trevico#
+|-
+|[[w:Stazione metereologica di Bari Palese|Bari Palese]]
+| #tempo-Bari#
+| #min-Bari#
+| #max-Bari#
+| #vento-Bari#
+| #intensita-Bari#
+|-
+|[[w:Stazione metereologica di Gioia del Colle|Gioia del Colle]]
+| #tempo-Gioia del Colle#
+| #min-Gioia del Colle#
+| #max-Gioia del Colle#
+| #vento-Gioia del Colle#
+| #intensita-Gioia del Colle#
+|-
+|[[w:Stazione metereologica di Capri|Capri]]
+| #tempo-Isola di Capri#
+| #min-Isola di Capri#
+| #max-Isola di Capri#
+| #vento-Isola di Capri#
+| #intensita-Isola di Capri#
+|-
+|[[w:Stazione metereologica di Capo Palinuro|Capo Palinuro]]
+| #tempo-Capo Palinuro#
+| #min-Capo Palinuro#
+| #max-Capo Palinuro#
+| #vento-Capo Palinuro#
+| #intensita-Capo Palinuro#
+|-
+|[[w:Stazione metereologica di Potenza|Potenza]]
+| #tempo-Potenza#
+| #min-Potenza#
+| #max-Potenza#
+| #vento-Potenza#
+| #intensita-Potenza#
+|-
+|[[w:Stazione metereologica di Marina di Ginosa|Marina di Ginosa]]
+| #tempo-Marina di Ginosa#
+| #min-Marina di Ginosa#
+| #max-Marina di Ginosa#
+| #vento-Marina di Ginosa#
+| #intensita-Marina di Ginosa#
+|-
+|[[w:Stazione metereologica di Grottaglie|Grottaglie]]
+| #tempo-Grottaglie#
+| #min-Grottaglie#
+| #max-Grottaglie#
+| #vento-Grottaglie#
+| #intensita-Grottaglie#
+|-
+|[[w:Stazione metereologica di Brindisi|Brindisi]]
+| #tempo-Brindisi#
+| #min-Brindisi#
+| #max-Brindisi#
+| #vento-Brindisi#
+| #intensita-Brindisi#
+|-
+|[[w:Stazione metereologica di Lecce Galatina|Lecce Galatina]]
+| #tempo-Lecce#
+| #min-Lecce#
+| #max-Lecce#
+| #vento-Lecce#
+| #intensita-Lecce#
+|-
+|[[w:Stazione metereologica di Santa Maria di Leuca|Santa Maria di Leuca]]
+| #tempo-S. Maria di Leuca#
+| #min-S. Maria di Leuca#
+| #max-S. Maria di Leuca#
+| #vento-S. Maria di Leuca#
+| #intensita-S. Maria di Leuca#
+|-
+|[[w:Stazione metereologica di Latronico|Latronico]]
+| #tempo-Latronico#
+| #min-Latronico#
+| #max-Latronico#
+| #vento-Latronico#
+| #intensita-Latronico#
+|-
+|[[w:Stazione metereologica di Bonifati|Bonifati]]
+| #tempo-Bonifati#
+| #min-Bonifati#
+| #max-Bonifati#
+| #vento-Bonifati#
+| #intensita-Bonifati#
+|-
+|[[w:Stazione metereologica di Monte Scuro|Monte Scuro]]
+| #tempo-Monte Scuro#
+| #min-Monte Scuro#
+| #max-Monte Scuro#
+| #vento-Monte Scuro#
+| #intensita-Monte Scuro#
+|-
+|[[w:Stazione metereologica di Crotone Isola di Capo Rizzuto|Crotone Isola di Capo Rizzuto]]
+| #tempo-Crotone#
+| #min-Crotone#
+| #max-Crotone#
+| #vento-Crotone#
+| #intensita-Crotone#
+|-
+|[[w:Stazione metereologica di Reggio Calabria|Reggio Calabria]]
+| #tempo-Reggio Calabria#
+| #min-Reggio Calabria#
+| #max-Reggio Calabria#
+| #vento-Reggio Calabria#
+| #intensita-Reggio Calabria#
+|}
+
+===[[W:Italia insulare|Italia insulare]]===
+{| border="2" cellpadding="4" width:95% cellspacing="0" class="sortable" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+! bgcolor="efefef" | Località
+! bgcolor="efefef" | Cielo
+! bgcolor="efefef" | T. min
+! bgcolor="efefef" | T. max
+! bgcolor="efefef" | Vento
+! bgcolor="efefef" | Intensità
+|-
+|[[w:Stazione metereologica di Olbia|Olbia]]
+| #tempo-Olbia#
+| #min-Olbia#
+| #max-Olbia#
+| #vento-Olbia#
+| #intensita-Olbia#
+|-
+|[[w:Stazione metereologica di Alghero Fertilia|Alghero Fertilia]]
+| #tempo-Alghero#
+| #min-Alghero#
+| #max-Alghero#
+| #vento-Alghero#
+| #intensita-Alghero#
+|-
+|[[w:Stazione metereologica di Fonni|Fonni]]
+| #tempo-Fonni#
+| #min-Fonni#
+| #max-Fonni#
+| #vento-Fonni#
+| #intensita-Fonni#
+|-
+|[[w:Stazione metereologica di Capo Bellavista|Capo Bellavista]]
+| #tempo-Capo Bellavista#
+| #min-Capo Bellavista#
+| #max-Capo Bellavista#
+| #vento-Capo Bellavista#
+| #intensita-Capo Bellavista#
+|-
+|[[w:Stazione metereologica di Capo Frasca|Capo Frasca]]
+| #tempo-Capo Frasca#
+| #min-Capo Frasca#
+| #max-Capo Frasca#
+| #vento-Capo Frasca#
+| #intensita-Capo Frasca#
+|-
+|[[w:Stazione metereologica di Decimomannu|Decimomannu]]
+| #tempo-Decimomannu#
+| #min-Decimomannu#
+| #max-Decimomannu#
+| #vento-Decimomannu#
+| #intensita-Decimomannu#
+|-
+|[[w:Stazione metereologica di Cagliari Elmas|Cagliari Elmas]]
+| #tempo-Cagliari#
+| #min-Cagliari#
+| #max-Cagliari#
+| #vento-Cagliari#
+| #intensita-Cagliari#
+|-
+|[[w:Stazione metereologica di Capo Carbonara|Capo Carbonara]]
+| #tempo-Capo Carbonara#
+| #min-Capo Carbonara#
+| #max-Capo Carbonara#
+| #vento-Capo Carbonara#
+| #intensita-Capo Carbonara#
+|-
+|[[w:Stazione metereologica di Ustica|Ustica]]
+| #tempo-Ustica#
+| #min-Ustica#
+| #max-Ustica#
+| #vento-Ustica#
+| #intensita-Ustica#
+|-
+|[[w:Stazione metereologica di Trapani Birgi|Trapani Birgi]]
+| #tempo-Trapani#
+| #min-Trapani#
+| #max-Trapani#
+| #vento-Trapani#
+| #intensita-Trapani#
+|-
+|[[w:Stazione metereologica di Palermo Punta Raisi|Palermo Punta Raisi]]
+| #tempo-Palermo#
+| #min-Palermo#
+| #max-Palermo#
+| #vento-Palermo#
+| #intensita-Palermo#
+|-
+|[[w:Stazione metereologica di Palermo Boccadifalco|Palermo Boccadifalco]]
+| #tempo-Palermo Boccadifalco#
+| #min-Palermo Boccadifalco#
+| #max-Palermo Boccadifalco#
+| #vento-Palermo Boccadifalco#
+| #intensita-Palermo Boccadifalco#
+|-
+|[[w:Stazione metereologica di Messina|Messina]]
+| #tempo-Messina#
+| #min-Messina#
+| #max-Messina#
+| #vento-Messina#
+| #intensita-Messina#
+|-
+|[[w:Stazione metereologica di Prizzi|Prizzi]]
+| #tempo-Prizzi#
+| #min-Prizzi#
+| #max-Prizzi#
+| #vento-Prizzi#
+| #intensita-Prizzi#
+|-
+|[[w:Stazione metereologica di Enna|Enna]]
+| #tempo-Enna#
+| #min-Enna#
+| #max-Enna#
+| #vento-Enna#
+| #intensita-Enna#
+|-
+|[[w:Stazione metereologica di Catania Fontanarossa|Catania Fontanarossa]]
+| #tempo-Catania Fontana Rossa#
+| #min-Catania Fontana Rossa#
+| #max-Catania Fontana Rossa#
+| #vento-Catania Fontana Rossa#
+| #intensita-Catania Fontana Rossa#
+|-
+|[[w:Stazione metereologica di Catania Sigonella|Catania Sigonella]]
+| #tempo-Catania Sigonella#
+| #min-Catania Sigonella#
+| #max-Catania Sigonella#
+| #vento-Catania Sigonella#
+| #intensita-Catania Sigonella#
+|-
+|[[w:Stazione metereologica di Gela|Gela]]
+| #tempo-Gela#
+| #min-Gela#
+| #max-Gela#
+| #vento-Gela#
+| #intensita-Gela#
+|-
+|[[w:Stazione metereologica di Cozzo Spadaro|Cozzo Spadaro]]
+| #tempo-Cozzo Spadaro#
+| #min-Cozzo Spadaro#
+| #max-Cozzo Spadaro#
+| #vento-Cozzo Spadaro#
+| #intensita-Cozzo Spadaro#
+|-
+|[[w:Stazione metereologica di Pantelleria|Pantelleria]]
+| #tempo-Pantelleria#
+| #min-Pantelleria#
+| #max-Pantelleria#
+| #vento-Pantelleria#
+| #intensita-Pantelleria#
+|-
+|[[w:Stazione metereologica di Lampedusa|Lampedusa]]
+| #tempo-Lampedusa#
+| #min-Lampedusa#
+| #max-Lampedusa#
+| #vento-Lampedusa#
+| #intensita-Lampedusa#
+|}
+
+==Fonti==
+{{fonte
+|autore=
+|url=http://www.meteoam.it/modules.php?name=previsioneTempo&giorni=2&arancio=1
+|titolo=Previsione per il {{subst:#time:d-m-Y|+1 day}}
+|agenzia=Meteoam.it
+|data={{subst:LOCALDAY}} {{subst:LOCALMONTHNAME}} {{subst:LOCALYEAR}} ore {{subst:LOCALTIME}}
+}}
+</noinclude>

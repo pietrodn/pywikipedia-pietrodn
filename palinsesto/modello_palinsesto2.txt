@@ -1,0 +1,13 @@
+{| border="1" cellspacing="0" cellpadding="3" style="border:1px solid black; border-collapse:collapse;"
+! colspan="3" style="font-size:200%; line-height:1;" | #rete
+|-
+!Ora
+!Tipo
+!Nome
+#programmi
+|}
+<noinclude>
+{{NavigazioneTV}}
+
+Il palinsesto è preso da [http://tv.lospettacolo.it/home.asp LoSpettacolo.it]. Ultimo aggiornamento: {{subst:#time:H:i, l j F Y|{{subst:LOCALTIMESTAMP}}}}.
+</noinclude>

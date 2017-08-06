@@ -1,0 +1,141 @@
+{{data|{{subst:#expr:#giorno}} #mese #anno|#dow}}
+__NOTOC__
+
+{| {{prettytable|align=center|text-align=center}}
+|-
+!colspan=6; style="background:#98A1B2;"|<span style="color:white">Totocalcio concorso n. #super-id di #dow {{subst:#expr:#giorno}} #mese #anno</span>
+|-
+|width=20px;|1
+|width=120px;|#sq-1a
+|width=120px;|#sq-1b
+|width=20px;|#res-1a
+|width=20px;|#res-1b
+!width=20px;|#ok-1
+|-
+|width=20px;|2
+|width=120px;|#sq-2a
+|width=120px;|#sq-2b
+|width=20px;|#res-2a
+|width=20px;|#res-2b
+!width=20px;|#ok-2
+|-
+|width=20px;|3
+|width=120px;|#sq-3a
+|width=120px;|#sq-3b
+|width=20px;|#res-3a
+|width=20px;|#res-3b
+!width=20px;|#ok-3
+|-
+|width=20px;|4
+|width=120px;|#sq-4a
+|width=120px;|#sq-4b
+|width=20px;|#res-4a
+|width=20px;|#res-4b
+!width=20px;|#ok-4
+|-
+|width=20px;|5
+|width=120px;|#sq-5a
+|width=120px;|#sq-5b
+|width=20px;|#res-5a
+|width=20px;|#res-5b
+!width=20px;|#ok-5
+|-
+|width=20px;|6
+|width=120px;|#sq-6a
+|width=120px;|#sq-6b
+|width=20px;|#res-6a
+|width=20px;|#res-6b
+!width=20px;|#ok-6
+|-
+|width=20px;|7
+|width=120px;|#sq-7a
+|width=120px;|#sq-7b
+|width=20px;|#res-7a
+|width=20px;|#res-7b
+!width=20px;|#ok-7
+|-
+|width=20px;|8
+|width=120px;|#sq-8a
+|width=120px;|#sq-8b
+|width=20px;|#res-8a
+|width=20px;|#res-8b
+!width=20px;|#ok-8
+|-
+|width=20px;|9
+|width=120px;|#sq-9a
+|width=120px;|#sq-9b
+|width=20px;|#res-9a
+|width=20px;|#res-9b
+!width=20px;|#ok-9
+|-style="background:#D0FFD0;"
+|width=20px;|10
+|width=120px;|#sq-10a
+|width=120px;|#sq-10b
+|width=20px;|#res-10a
+|width=20px;|#res-10b
+!width=20px;|#ok-10
+|-style="background:#D0FFD0;"
+|width=20px;|11
+|width=120px;|#sq-11a
+|width=120px;|#sq-11b
+|width=20px;|#res-11a
+|width=20px;|#res-11b
+!width=20px;|#ok-11
+|-style="background:#D0FFD0;"
+|width=20px;|12
+|width=120px;|#sq-12a
+|width=120px;|#sq-12b
+|width=20px;|#res-12a
+|width=20px;|#res-12b
+!width=20px;|#ok-12
+|-style="background:#D0FFD0;"
+|width=20px;|13
+|width=120px;|#sq-13a
+|width=120px;|#sq-13b
+|width=20px;|#res-13a
+|width=20px;|#res-13b
+!width=20px;|#ok-13
+|-style="background:#D0FFD0;"
+|width=20px;|14
+|width=120px;|#sq-14a
+|width=120px;|#sq-14b
+|width=20px;|#res-14a
+|width=20px;|#res-14b
+!width=20px;|#ok-14
+|-
+|}
+
+==Montepremi==
+* Concorso n. #super-id: #montepremi-parz euro
+* Jackpot (riporto concorso precedente): #jackpot euro
+* Montepremi totale: '''#montepremi-tot''' euro
+* Jackpot prossimo concorso: #futuro-jackpot euro
+
+===Quote===
+* n. 14: #euro-14 euro (#vincitori-14 vincitori)
+* n. 13: #euro-13 euro (#vincitori-13 vincitori)
+* n. 12: #euro-12 euro (#vincitori-12 vincitori)
+
+==Montepremi "Il 9"==
+* Concorso n. #super-id: #9-montepremi-parz euro
+* Jackpot (riporto concorso precedente): #9-jackpot euro
+* Montepremi totale: '''#9-montepremi-tot''' euro
+* Jackpot prossimo concorso: #9-futuro-jackpot euro
+
+===Quote===
+* n. 9: #euro-9 euro (#vincitori-9 vincitori)
+
+==Fonti==
+{{fonte
+|autore=
+|url=http://www.calcio.sisal.it/pages/totocalcio/dettaglio_archivio.xwb?expandId=1373&CONCORSO=#super-id&ANNO=#anno
+|titolo=Concorso n. #super-id di #dow {{subst:#expr:#giorno}} #mese #anno
+|agenzia=Sisal
+|data={{subst:#expr:#giorno}} #mese #anno}}
+
+{{pubblicato}}
+
+[[Categoria:Europa]]
+[[Categoria:Italia]]
+[[Categoria:Giochi a premi]]
+[[Categoria:Totocalcio]]
