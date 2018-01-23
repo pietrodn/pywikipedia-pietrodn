@@ -3,6 +3,7 @@
  
 import wikipedia
 import urllib2, re, codecs
+import time
 
 def pageText(url):
     request = urllib2.Request(url)

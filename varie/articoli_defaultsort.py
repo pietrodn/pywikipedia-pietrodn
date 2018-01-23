@@ -18,7 +18,7 @@ def main():
               
     # Check if pages on which the bot should work are specified.
     if not generator:
-        raise NoEnoughData('You have to specify which pages the script has to work on!')
+        raise Exception('You have to specify which pages the script has to work on!')
     
     # Main Loop
     for i in generator:

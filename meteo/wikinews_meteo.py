@@ -3,6 +3,7 @@
  
 import wikipedia
 import urllib2, datetime, re, codecs
+import time
 
 codiciStazioni = [
     'LIMG',
